@@ -45,17 +45,17 @@ class MainBanner extends Component {
                             <div className="col-lg-6">
                                 {/* Main Image */}
                                 <div className="banner-main-img banner-one-main-img">
-                                    <img src="/images/home-three/main-img3.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/home-three/main-img3.png" alt="Image" />
                                 </div>
 
                                 {/* Banner Shape Images */}
                                 <div className="banner-img">
                                     <ReactWOW delay='.1s' animation='fadeInDown'>
-                                        <img src="/images/home-three/shape1.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/home-three/shape1.png" alt="Image" />
                                     </ReactWOW>
 
                                     <ReactWOW delay='.1s' animation='fadeInDown'>
-                                        <img src="/images/home-three/shape2.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/home-three/shape2.png" alt="Image" />
                                     </ReactWOW>
                                 </div>
                             </div>
@@ -64,15 +64,15 @@ class MainBanner extends Component {
 
                     {/* Shape Images */}
                     <div className="over-shape">
-                        <img src="/images/home-one/shape/animate1.png" alt="Image" />
-                        <img src="/images/home-one/shape/animate1.png" alt="Image" />
-                        <img src="/images/home-one/shape/animate2.png" alt="Image" />
-                        <img src="/images/home-one/shape/animate2.png" alt="Image" />
-                        <img src="/images/home-one/shape/animate3.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-one/shape/animate1.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-one/shape/animate1.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-one/shape/animate2.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-one/shape/animate2.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-one/shape/animate3.png" alt="Image" />
                     </div>
 
                     <div className="white-shape">
-                        <img src="/images/home-three/bottom-shape.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-three/bottom-shape.png" alt="Image" />
                     </div>
                 </div>
             

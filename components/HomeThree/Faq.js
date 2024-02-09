@@ -93,7 +93,7 @@ class Faq extends Component {
 
                         <div className="col-lg-4">
                             <div className="faq-img">
-                                <img src="/images/faq-img.png" alt="Image" />
+                                <img src="https://jumpx-react.envytheme.com/images/faq-img.png" alt="Image" />
                             </div>
                         </div>
                     </div>

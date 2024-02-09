@@ -12,7 +12,7 @@ class NewsGridCard extends Component {
                                 <div className="blog-img">
                                     <Link href="/news-details">
                                         <a>
-                                            <img src="/images/blog/blog1.png" alt="Image" />
+                                            <img src="https://jumpx-react.envytheme.com/images/blog/blog1.png" alt="Image" />
                                         </a>
                                     </Link>
 
@@ -57,7 +57,7 @@ class NewsGridCard extends Component {
                                 <div className="blog-img">
                                     <Link href="/news-details">
                                         <a>
-                                            <img src="/images/blog/blog2.png" alt="Image" />
+                                            <img src="https://jumpx-react.envytheme.com/images/blog/blog2.png" alt="Image" />
                                         </a>
                                     </Link>
 
@@ -102,7 +102,7 @@ class NewsGridCard extends Component {
                                 <div className="blog-img">
                                     <Link href="/news-details">
                                         <a>
-                                            <img src="/images/blog/blog3.png" alt="Image" />
+                                            <img src="https://jumpx-react.envytheme.com/images/blog/blog3.png" alt="Image" />
                                         </a>
                                     </Link>
 
@@ -147,7 +147,7 @@ class NewsGridCard extends Component {
                                 <div className="blog-img">
                                     <Link href="/news-details">
                                         <a>
-                                            <img src="/images/blog/blog4.png" alt="Image" />
+                                            <img src="https://jumpx-react.envytheme.com/images/blog/blog4.png" alt="Image" />
                                         </a>
                                     </Link>
 
@@ -192,7 +192,7 @@ class NewsGridCard extends Component {
                                 <div className="blog-img">
                                     <Link href="/news-details">
                                         <a>
-                                            <img src="/images/blog/blog5.png" alt="Image" />
+                                            <img src="https://jumpx-react.envytheme.com/images/blog/blog5.png" alt="Image" />
                                         </a>
                                     </Link>
 
@@ -237,7 +237,7 @@ class NewsGridCard extends Component {
                                 <div className="blog-img">
                                     <Link href="/news-details">
                                         <a>
-                                            <img src="/images/blog/blog6.png" alt="Image" />
+                                            <img src="https://jumpx-react.envytheme.com/images/blog/blog6.png" alt="Image" />
                                         </a>
                                     </Link>
 
@@ -282,7 +282,7 @@ class NewsGridCard extends Component {
                                 <div className="blog-img">
                                     <Link href="/news-details">
                                         <a>
-                                            <img src="/images/blog/blog7.png" alt="Image" />
+                                            <img src="https://jumpx-react.envytheme.com/images/blog/blog7.png" alt="Image" />
                                         </a>
                                     </Link>
 
@@ -327,7 +327,7 @@ class NewsGridCard extends Component {
                                 <div className="blog-img">
                                     <Link href="/news-details">
                                         <a>
-                                            <img src="/images/blog/blog8.png" alt="Image" />
+                                            <img src="https://jumpx-react.envytheme.com/images/blog/blog8.png" alt="Image" />
                                         </a>
                                     </Link>
 
@@ -372,7 +372,7 @@ class NewsGridCard extends Component {
                                 <div className="blog-img">
                                     <Link href="/news-details">
                                         <a>
-                                            <img src="/images/blog/blog9.png" alt="Image" />
+                                            <img src="https://jumpx-react.envytheme.com/images/blog/blog9.png" alt="Image" />
                                         </a>
                                     </Link>
 

@@ -84,7 +84,7 @@ class WhatWeOffer extends Component {
                                         <div className="row align-items-center">
                                             <div className="col-lg-6">
                                                 <div className="industries-img left-img">
-                                                    <img src="/images/offer1.png" alt="Image" />
+                                                    <img src="https://jumpx-react.envytheme.com/images/offer1.png" alt="Image" />
                                                 </div>
                                             </div>
 
@@ -195,7 +195,7 @@ class WhatWeOffer extends Component {
 
                                             <div className="col-lg-6">
                                                 <div className="industries-img right-img">
-                                                    <img src="/images/offer2.png" alt="Image" />
+                                                    <img src="https://jumpx-react.envytheme.com/images/offer2.png" alt="Image" />
                                                 </div>
                                             </div>
                                         </div>
@@ -206,7 +206,7 @@ class WhatWeOffer extends Component {
                                         <div className="row  align-items-center">
                                             <div className="col-lg-6">
                                                 <div className="industries-img left-img">
-                                                    <img src="/images/offer3.png" alt="Image" />
+                                                    <img src="https://jumpx-react.envytheme.com/images/offer3.png" alt="Image" />
                                                 </div>
                                             </div>
 
@@ -317,7 +317,7 @@ class WhatWeOffer extends Component {
 
                                             <div className="col-lg-6">
                                                 <div className="industries-img right-img">
-                                                    <img src="/images/offer4.png" alt="Image" />
+                                                    <img src="https://jumpx-react.envytheme.com/images/offer4.png" alt="Image" />
                                                 </div>
                                             </div>
                                         </div>

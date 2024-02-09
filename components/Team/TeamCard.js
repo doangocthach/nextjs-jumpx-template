@@ -10,10 +10,10 @@ class TeamCard extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="single-team active">
                                 <div className="team-single-img">
-                                    <img src="/images/team/team1.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/team/team1.png" alt="Image" />
 
                                     <div className="team-img">
-                                        <img src="/images/team/team-shape.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/team/team-shape.png" alt="Image" />
                                     </div>
                                 </div>
 
@@ -50,10 +50,10 @@ class TeamCard extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="single-team active">
                                 <div className="team-single-img">
-                                    <img src="/images/team/team2.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/team/team2.png" alt="Image" />
 
                                     <div className="team-img">
-                                        <img src="/images/team/team-shape.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/team/team-shape.png" alt="Image" />
                                     </div>
                                 </div>
 
@@ -90,10 +90,10 @@ class TeamCard extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="single-team active">
                                 <div className="team-single-img">
-                                    <img src="/images/team/team3.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/team/team3.png" alt="Image" />
 
                                     <div className="team-img">
-                                        <img src="/images/team/team-shape.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/team/team-shape.png" alt="Image" />
                                     </div>
                                 </div>
 
@@ -130,10 +130,10 @@ class TeamCard extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="single-team active">
                                 <div className="team-single-img">
-                                    <img src="/images/team/team4.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/team/team4.png" alt="Image" />
 
                                     <div className="team-img">
-                                        <img src="/images/team/team-shape.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/team/team-shape.png" alt="Image" />
                                     </div>
                                 </div>
 
@@ -170,10 +170,10 @@ class TeamCard extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="single-team active">
                                 <div className="team-single-img">
-                                    <img src="/images/team/team5.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/team/team5.png" alt="Image" />
 
                                     <div className="team-img">
-                                        <img src="/images/team/team-shape.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/team/team-shape.png" alt="Image" />
                                     </div>
                                 </div>
 
@@ -210,10 +210,10 @@ class TeamCard extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="single-team active">
                                 <div className="team-single-img">
-                                    <img src="/images/team/team6.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/team/team6.png" alt="Image" />
 
                                     <div className="team-img">
-                                        <img src="/images/team/team-shape.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/team/team-shape.png" alt="Image" />
                                     </div>
                                 </div>
 
@@ -250,10 +250,10 @@ class TeamCard extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="single-team active">
                                 <div className="team-single-img">
-                                    <img src="/images/team/team7.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/team/team7.png" alt="Image" />
 
                                     <div className="team-img">
-                                        <img src="/images/team/team-shape.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/team/team-shape.png" alt="Image" />
                                     </div>
                                 </div>
 
@@ -290,10 +290,10 @@ class TeamCard extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="single-team active">
                                 <div className="team-single-img">
-                                    <img src="./images/team/team8.png" alt="Image" />
+                                    <img src=".https://jumpx-react.envytheme.com/images/team/team8.png" alt="Image" />
 
                                     <div className="team-img">
-                                        <img src="/images/team/team-shape.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/team/team-shape.png" alt="Image" />
                                     </div>
                                 </div>
 

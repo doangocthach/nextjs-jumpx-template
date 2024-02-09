@@ -9,7 +9,7 @@ class About extends Component {
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <div className="about-img">
-                                <img src="/images/about-img.png" alt="Image" />
+                                <img src="https://jumpx-react.envytheme.com/images/about-img.png" alt="Image" />
                             </div>
                         </div>
 
