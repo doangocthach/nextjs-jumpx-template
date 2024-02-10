@@ -58,7 +58,7 @@ class PartnerSlider extends Component {
                         <div className="single-brand">
                             <Link href="#">
                                 <a>
-                                    <img src="/images/brands/brand1.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/brands/brand1.png" alt="Image" />
                                 </a>
                             </Link>
                         </div>
@@ -66,7 +66,7 @@ class PartnerSlider extends Component {
                         <div className="single-brand">
                             <Link href="#">
                                 <a>
-                                    <img src="/images/brands/brand2.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/brands/brand2.png" alt="Image" />
                                 </a>
                             </Link>
                         </div>
@@ -74,7 +74,7 @@ class PartnerSlider extends Component {
                         <div className="single-brand">
                             <Link href="#">
                                 <a>
-                                    <img src="/images/brands/brand3.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/brands/brand3.png" alt="Image" />
                                 </a>
                             </Link>
                         </div>
@@ -82,7 +82,7 @@ class PartnerSlider extends Component {
                         <div className="single-brand">
                             <Link href="#">
                                 <a>
-                                    <img src="/images/brands/brand4.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/brands/brand4.png" alt="Image" />
                                 </a>
                             </Link>
                         </div>
@@ -90,7 +90,7 @@ class PartnerSlider extends Component {
                         <div className="single-brand">
                             <Link href="#">
                                 <a>
-                                    <img src="/images/brands/brand5.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/brands/brand5.png" alt="Image" />
                                 </a>
                             </Link>
                         </div>
@@ -98,7 +98,7 @@ class PartnerSlider extends Component {
                         <div className="single-brand">
                             <Link href="#">
                                 <a>
-                                    <img src="/images/brands/brand6.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/brands/brand6.png" alt="Image" />
                                 </a>
                             </Link>
                         </div>
@@ -106,7 +106,7 @@ class PartnerSlider extends Component {
                         <div className="single-brand">
                             <Link href="#">
                                 <a>
-                                    <img src="/images/brands/brand7.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/brands/brand7.png" alt="Image" />
                                 </a>
                             </Link>
                         </div>
@@ -114,7 +114,7 @@ class PartnerSlider extends Component {
                         <div className="single-brand">
                             <Link href="#">
                                 <a>
-                                    <img src="/images/brands/brand8.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/brands/brand8.png" alt="Image" />
                                 </a>
                             </Link>
                         </div>

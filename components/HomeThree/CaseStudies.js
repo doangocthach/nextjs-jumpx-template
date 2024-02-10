@@ -65,7 +65,7 @@ class CaseStudies extends Component {
                         >
                             <div className="case-wrap">
                                 <div className="single-case">
-                                    <img src="/images/cases/case1.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/cases/case1.png" alt="Image" />
 
                                     <Link href="#">
                                         <a className="link-icon">
@@ -85,7 +85,7 @@ class CaseStudies extends Component {
 
                             <div className="case-wrap">
                                 <div className="single-case">
-                                    <img src="/images/cases/case2.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/cases/case2.png" alt="Image" />
 
                                     <Link href="#">
                                         <a className="link-icon">
@@ -105,7 +105,7 @@ class CaseStudies extends Component {
 
                             <div className="case-wrap">
                                 <div className="single-case">
-                                    <img src="/images/cases/case3.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/cases/case3.png" alt="Image" />
 
                                     <Link href="#">
                                         <a className="link-icon">
@@ -125,7 +125,7 @@ class CaseStudies extends Component {
 
                             <div className="case-wrap">
                                 <div className="single-case">
-                                    <img src="/images/cases/case4.png" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/cases/case4.png" alt="Image" />
 
                                     <Link href="#">
                                         <a className="link-icon">

@@ -88,12 +88,12 @@ class ServicesStyleTwo extends Component {
 
                 {/* Shape Images */}
                 <div className="offer-shape">
-                    <img src="/images/shape/services-shape/1.png" alt="Image" />
-                    <img src="/images/shape/services-shape/2.png" alt="Image" />
-                    <img src="/images/shape/services-shape/3.png" alt="Image" />
-                    <img src="/images/shape/services-shape/4.png" alt="Image" />
-                    <img src="/images/shape/services-shape/5.png" alt="Image" />
-                    <img src="/images/shape/services-shape/6.png" alt="Image" />
+                    <img src="https://jumpx-react.envytheme.com/images/shape/services-shape/1.png" alt="Image" />
+                    <img src="https://jumpx-react.envytheme.com/images/shape/services-shape/2.png" alt="Image" />
+                    <img src="https://jumpx-react.envytheme.com/images/shape/services-shape/3.png" alt="Image" />
+                    <img src="https://jumpx-react.envytheme.com/images/shape/services-shape/4.png" alt="Image" />
+                    <img src="https://jumpx-react.envytheme.com/images/shape/services-shape/5.png" alt="Image" />
+                    <img src="https://jumpx-react.envytheme.com/images/shape/services-shape/6.png" alt="Image" />
                 </div>
             </section>
         );

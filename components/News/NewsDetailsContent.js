@@ -12,7 +12,7 @@ class NewsDetailsContent extends Component {
                         <div className="col-lg-8 col-md-12">
                             <div className="blog-details-desc">
                                 <div className="article-image">
-                                    <img src="/images/blog-details/blog-details.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/blog-details/blog-details.jpg" alt="Image" />
                                 </div>
 
                                 <div className="article-content">

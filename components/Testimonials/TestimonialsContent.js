@@ -21,7 +21,7 @@ class TestimonialsContent extends Component {
                                 </ul>
                                 
                                 <div className="client-img">
-                                    <img src="/images/clients/client1.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/clients/client1.jpg" alt="Image" />
                                     <h3>Alen Meair</h3>
                                     <span>Developer</span>
                                 </div>
@@ -42,7 +42,7 @@ class TestimonialsContent extends Component {
                                 </ul>
 
                                 <div className="client-img">
-                                    <img src="/images/clients/client2.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/clients/client2.jpg" alt="Image" />
                                     <h3>Axon Detos</h3>
                                     <span>Founder</span>
                                 </div>
@@ -63,7 +63,7 @@ class TestimonialsContent extends Component {
                                 </ul>
 
                                 <div className="client-img">
-                                    <img src="/images/clients/client3.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/clients/client3.jpg" alt="Image" />
                                     <h3>Axon Detos</h3>
                                     <span>CEO</span>
                                 </div>
@@ -84,7 +84,7 @@ class TestimonialsContent extends Component {
                                 </ul>
 
                                 <div className="client-img">
-                                    <img src="/images/clients/client4.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/clients/client4.jpg" alt="Image" />
                                     <h3>John Dona</h3>
                                     <span>Designer</span>
                                 </div>
@@ -105,7 +105,7 @@ class TestimonialsContent extends Component {
                                 </ul>
 
                                 <div className="client-img">
-                                    <img src="/images/clients/client5.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/clients/client5.jpg" alt="Image" />
                                     <h3>Dew Smith</h3>
                                     <span>UI/UX</span>
                                 </div>
@@ -126,7 +126,7 @@ class TestimonialsContent extends Component {
                                 </ul>
 
                                 <div className="client-img">
-                                    <img src="/images/clients/client6.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/clients/client6.jpg" alt="Image" />
                                     <h3>Jeath Smith</h3>
                                     <span>SEO Developer</span>
                                 </div>
@@ -147,7 +147,7 @@ class TestimonialsContent extends Component {
                                 </ul>
 
                                 <div className="client-img">
-                                    <img src="/images/clients/client7.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/clients/client7.jpg" alt="Image" />
                                     <h3>Kilkaz Dew</h3>
                                     <span>Ui/UX Designer</span>
                                 </div>
@@ -168,7 +168,7 @@ class TestimonialsContent extends Component {
                                 </ul>
 
                                 <div className="client-img">
-                                    <img src="/images/clients/client8.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/clients/client8.jpg" alt="Image" />
                                     <h3>Ana Deth</h3>
                                     <span>PHP Developer</span>
                                 </div>
@@ -189,7 +189,7 @@ class TestimonialsContent extends Component {
                                 </ul>
 
                                 <div className="client-img">
-                                    <img src="/images/clients/client9.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/clients/client9.jpg" alt="Image" />
                                     <h3>Zeck Smith</h3>
                                     <span>Founder CEO</span>
                                 </div>

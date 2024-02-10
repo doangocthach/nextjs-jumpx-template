@@ -45,7 +45,7 @@ class MainBanner extends Component {
                             <div className="col-lg-6 pr-0">
                                 <div className="banner-four-main-img">
                                     <ReactWOW delay='.1s' animation='fadeInRight'>
-                                        <img src="/images/home-four/main-img4.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/home-four/main-img4.png" alt="Image" />
                                     </ReactWOW>
                                 </div>
                             </div>
@@ -54,11 +54,11 @@ class MainBanner extends Component {
 
                     {/* Shape Images */}
                     <div className="over-shape">
-                        <img src="/images/home-one/shape/animate1.png" alt="Image" />
-                        <img src="/images/home-one/shape/animate1.png" alt="Image" />
-                        <img src="/images/home-one/shape/animate2.png" alt="Image" />
-                        <img src="/images/home-one/shape/animate2.png" alt="Image" />
-                        <img src="/images/home-one/shape/animate3.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-one/shape/animate1.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-one/shape/animate1.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-one/shape/animate2.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-one/shape/animate2.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/home-one/shape/animate3.png" alt="Image" />
                     </div>
                 </div>
             

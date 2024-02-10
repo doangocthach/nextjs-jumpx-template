@@ -42,7 +42,7 @@ class Navbar extends Component {
                         <div className="container">
                             <Link href="/">
                                 <a className="navbar-brand">
-                                    <img src="/images/white-logo.png" alt="logo" />
+                                    <img src="https://jumpx-react.envytheme.com/images/white-logo.png" alt="logo" />
                                 </a>
                             </Link>
 

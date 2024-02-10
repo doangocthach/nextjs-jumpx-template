@@ -60,7 +60,7 @@ class ContactForm extends Component {
 
                         <div className="col-lg-6">
                             <div className="contact-img">
-                                <img src="/images/contact-img.png" alt="Image" />
+                                <img src="https://jumpx-react.envytheme.com/images/contact-img.png" alt="Image" />
                             </div>
                         </div>
                     </div>

@@ -47,7 +47,7 @@ class WhyChooseUs extends Component {
 
                         <div className="col-lg-6">
                             <div className="choose-img">
-                                <img src="/images/choose-img.png" alt="Image" />
+                                <img src="https://jumpx-react.envytheme.com/images/choose-img.png" alt="Image" />
                             </div>
                         </div>
                     </div>

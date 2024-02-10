@@ -12,7 +12,7 @@ class Footer extends Component {
                             <div className="col-lg-3 col-md-6">
                                 <div className="single-widget">
                                     <a href="/" className="logo">
-                                        <img src="/images/white-logo.png" alt="Image" />
+                                        <img src="https://jumpx-react.envytheme.com/images/white-logo.png" alt="Image" />
                                     </a>
 
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat molestiae corporis, magni maxime perferendis ducimus totam officiis sit exercitationem sed odio debitis minus cumque dolores dicta. Vitae.</p>
@@ -199,8 +199,8 @@ class Footer extends Component {
                     </div>
 
                     <div className="footer-shape">
-                        <img src="/images/shape/footer-shape-one.png" alt="Image" />
-                        <img src="/images/shape/footer-shape-two.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/shape/footer-shape-one.png" alt="Image" />
+                        <img src="https://jumpx-react.envytheme.com/images/shape/footer-shape-two.png" alt="Image" />
                     </div>
                 </footer>
     

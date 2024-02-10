@@ -11,7 +11,7 @@ class ServiceDetailsContent extends Component {
                         <div className="col-lg-8">
                             <div className="service-details-wrap">
                                 <div className="service-img">
-                                    <img src="/images/services-details/services-details.jpg" alt="Image" />
+                                    <img src="https://jumpx-react.envytheme.com/images/services-details/services-details.jpg" alt="Image" />
                                 </div>
 
                                 <h3>Service Of Warehousing</h3>
@@ -25,7 +25,7 @@ class ServiceDetailsContent extends Component {
                                     <div className="row align-items-center">
                                         <div className="col-lg-6 col-md-6">
                                             <div className="service-list-img">
-                                                <img src="/images/services-details/services-details2.png" alt="Image" />
+                                                <img src="https://jumpx-react.envytheme.com/images/services-details/services-details2.png" alt="Image" />
                                             </div>
                                         </div>
 

@@ -75,7 +75,7 @@ class ServicesStyleFour extends Component {
 
                         <div className="col-lg-4">
                             <div className="industries-img">
-                                <img src="/images/offer1.png" alt="Image" />
+                                <img src="https://jumpx-react.envytheme.com/images/offer1.png" alt="Image" />
                             </div>
                         </div>
 
